@@ -6,7 +6,7 @@ This project is intended to help teachers visualize some of common integrals app
 - This project has written in Matlab 2019 App Designer
 ```
 
-sample outputs:
+sample apps:
 
 ## Area 1D Integral:
 ![1dbar](https://github.com/Amir-Mehrpanah/exploratory_mathematics/blob/master/README_contents/Bar.jpg)
