@@ -16,3 +16,9 @@ sample apps:
 
 ## Surface Area 2D Integral:
 ![2dsurf](https://github.com/Amir-Mehrpanah/exploratory_mathematics/blob/master/README_contents/Surf.jpg)
+
+## Vector Field Line Integral:
+![work](https://github.com/Amir-Mehrpanah/exploratory_mathematics/blob/master/README_contents/Line_Integral_VF.jpg)
+
+## Curve Length 1D Integral:
+![curve](https://github.com/Amir-Mehrpanah/exploratory_mathematics/blob/master/README_contents/Curve_Length.jpg)
