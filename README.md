@@ -1,6 +1,8 @@
 # Exploratory Mathematics
 This project is intended to help teachers visualize some of common integrals appear in elementary caculus, that's not all however, these applications can help curious students workout what's happening under the hood!
-Instructor: [Prof. Kamyabi Gol](http://kamyabi.profcms.um.ac.ir/index.php?mclang=en-US)
+
+Instructor: [Prof. Rajab Ali Kamyabi Gol](http://kamyabi.profcms.um.ac.ir/index.php?mclang=en-US)
+
 **if you just want to use applications checkout release tab**
 
 ```diff
